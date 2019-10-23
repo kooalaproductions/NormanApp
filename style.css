@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+}
+.container-wrapper {
+    border: 1px solid black;
+    background-color: transparent;
+    width: 50%;
+    display: inline-block;
+    margin-top: 3%;
+
+  }
+form {
+    display: inline-block;
+    width: 50%
+}
+.results{
+    width: 50%;
+    /* text-align: center; */
+    display: inline-block;
+    background-color: lightblue;
+}
+/* .title{
+    text-align: center;
+} */
